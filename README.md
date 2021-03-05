@@ -1,7 +1,5 @@
 # Extract-de-novo-mutations-from-trio
-GENOMICS: finding the child from a family trio and extracting de novo mutations using vcfR R package.
-
-Project completed during my MSc in Bioinformatics at the University of Birmingham, United Kingdom.
+Project completed during my MSc in Bioinformatics at the University of Birmingham, United Kingdom, 2019-2020.
 
 ## Data pre-processing
 1. **QC & FILTERING** 
@@ -12,6 +10,7 @@ Project completed during my MSc in Bioinformatics at the University of Birmingha
    * exclude low PHRED scores - only keep≥20
 
 ## Data analysis
+* uses ***vcfR*** R package
 1. **EXTRACT GENOTYPE** (reference allele vs. alternative allele e.g. 0/1)
 2. **EXTRACT DNA BASES** (reference allele vs. alternative allele)
 3. **FIND THE CHILD** (count the no of incompatible variants)
