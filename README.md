@@ -16,5 +16,7 @@ Project completed during my MSc in Bioinformatics at the University of Birmingha
 3. **FIND THE CHILD** (count the no of incompatible variants)
 4. **EXTRACT DE NOVO VARIANTS FROM THE CHILD** 
 5. **FURTHER RESEARCH**
-   * validation of de novo variants (**computational** e.g. calculate the probability for the mutation to be present in a family trio vs. **experimental** e.g. SANGER sequencing)
+   * validation of de novo variants 
+    * **computational** e.g. calculate the probability of the mutation to be present in a family trio 
+    * **experimental** e.g. SANGER sequencing
    * clinical impact of de novo varints (UCSC Genome Browser)
